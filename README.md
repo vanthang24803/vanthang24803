@@ -4,7 +4,7 @@
 <h3 align="left">Mail:</h3>
 <img align="right" width="320" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt=""/>
 
-- ✉️ You can contact me at [nguyenthang240803@gmail.com](mailto:nguyenthang240803@gmail.com)
+- ✉️ You can contact me at [mail](mailto:maynguyen24.work@gmail.com)
 
 <p align="left">
 </p>
