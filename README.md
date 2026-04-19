@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://indoanalytica.com/static/images/bannerr.gif" width="100%" alt="banner"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+May+Nguyen;Fullstack+Developer" alt="Typing SVG" />
 </div>
 
@@ -37,6 +31,10 @@
     <td align="center" width="80">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/><br/>
       <sub>Java</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go"/><br/>
+      <sub>Go</sub>
     </td>
   </tr>
 </table>
@@ -85,7 +83,7 @@
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/><br/>
+      <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker"/><br/>
       <sub>Docker</sub>
     </td>
     <td align="center" width="80">
@@ -97,20 +95,20 @@
       <sub>AWS</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite"/><br/>
-      <sub>Vite</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL"/><br/>
       <sub>PostgreSQL</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL"/><br/>
       <sub>MySQL</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/><br/>
-      <sub>Figma</sub>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB"/><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=bun" width="36" height="36" alt="Bun"/><br/>
+      <sub>Bun</sub>
     </td>
   </tr>
 </table>
@@ -144,3 +142,4 @@
 </p>
 
 <br/>
+
