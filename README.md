@@ -8,97 +8,132 @@
 
 
 ### 🛠 Tech Stack
-
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/><br/>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript"/>
+      </a><br/>
       <sub>TypeScript</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript"/>
+      </a><br/>
       <sub>JavaScript</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="36" height="36" alt="C#"/><br/>
+      <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+        <img src="https://skillicons.dev/icons?i=cs" width="36" height="36" alt="C#"/>
+      </a><br/>
       <sub>C#</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/><br/>
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java"/>
+      </a><br/>
       <sub>Java</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go"/><br/>
+      <a href="https://go.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=go" width="36" height="36" alt="Go"/>
+      </a><br/>
       <sub>Go</sub>
     </td>
   </tr>
 </table>
 
 ### 📦 Frameworks & Libraries
-
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="36" height="36" alt=".NET"/><br/>
+      <a href="https://dotnet.microsoft.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="36" height="36" alt=".NET"/>
+      </a><br/>
       <sub>.NET</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/><br/>
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="NodeJS"/>
+      </a><br/>
       <sub>NodeJS</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="36" height="36" alt="NestJS"/><br/>
+      <a href="https://nestjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="36" height="36" alt="NestJS"/>
+      </a><br/>
       <sub>NestJS</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36" height="36" alt="Spring Boot"/><br/>
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring Boot"/>
+      </a><br/>
       <sub>Spring Boot</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/><br/>
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React"/>
+      </a><br/>
       <sub>React</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js"/><br/>
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js"/>
+      </a><br/>
       <sub>Next.js</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue"/><br/>
+      <a href="https://vuejs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vue" width="36" height="36" alt="Vue"/>
+      </a><br/>
       <sub>Vue</sub>
     </td>
   </tr>
 </table>
 
 ### ⚙️ Tools
-
 <table>
   <tr>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker"/><br/>
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker"/>
+      </a><br/>
       <sub>Docker</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux"/><br/>
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux"/>
+      </a><br/>
       <sub>Linux</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS"/><br/>
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS"/>
+      </a><br/>
       <sub>AWS</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL"/><br/>
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL"/>
+      </a><br/>
       <sub>PostgreSQL</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL"/><br/>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL"/>
+      </a><br/>
       <sub>MySQL</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB"/><br/>
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB"/>
+      </a><br/>
       <sub>MongoDB</sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=bun" width="36" height="36" alt="Bun"/><br/>
+      <a href="https://bun.sh/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bun" width="36" height="36" alt="Bun"/>
+      </a><br/>
       <sub>Bun</sub>
     </td>
   </tr>
