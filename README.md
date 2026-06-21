@@ -5,6 +5,8 @@
 
 ### 📬 Contact
 ✉️ [maynguyen24.work@gmail.com](mailto:maynguyen24.work@gmail.com)
+### 📄 CV & Portfolio
+📄 [https://cv.thangnguyen.io.vn](https://cv.thangnguyen.io.vn)
 
 
 ### 🛠 Tech Stack
